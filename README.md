@@ -9,6 +9,7 @@ cd java-platformer
 ant
 ant Launcher
 ```
+Alternatively, download .jar file from release.
 \
 \
 Controls:
