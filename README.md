@@ -21,4 +21,4 @@ Q - Default attack / air dash attack \
 W - Special attack (only works in air) \
 E - Spell Cast (unfinished)
 
-<img width="1600" alt="Screen Shot 2022-08-10 at 10 59 30 PM" src="https://user-images.githubusercontent.com/55864293/184058093-f36241ba-b7dc-44dc-b5d4-6e47e49925ea.png">
+<img width="1600" alt="Screen Shot 2022-08-10 at 11 04 52 PM" src="https://user-images.githubusercontent.com/55864293/184058504-5c7ed512-6d5e-4e8c-856a-5f05632b2288.png">
